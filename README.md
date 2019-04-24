@@ -1,4 +1,5 @@
 # Simple-auto-slider-keyframes
 
-##
-Simple slider with using @keyframes
+## This slider was built by using advanced CSS animation.
+ 
+ I have learned with this project, how to use keyframes in CSS3.
